@@ -26,4 +26,4 @@ var server = net.createServer(function(socket) {
 });
 
 server.listen(socket-id-here, '0.0.0.0');
-console.log("server listening on port 1337");
+console.log("server listening on port id");
